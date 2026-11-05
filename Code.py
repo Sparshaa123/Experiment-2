@@ -47,17 +47,4 @@ elif batter=="Good" or bowler=="Good":
     print("supporting all rounder")
 else:
     print("Needs improvement")
-
-OUTPUT:
-Enter the runs scored:148
-Enter the balls faced50
-Enter the fours:6
-Enter the sixes:16
-Enter the wickets taken:4
-Enter the runs conceded:29
-Enter the overs bowled:2
-Enter the catches taken:3
-Average batter
-Average bowler
-Outstanding fielder
 Needs improvement
