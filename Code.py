@@ -47,4 +47,3 @@ elif batter=="Good" or bowler=="Good":
     print("supporting all rounder")
 else:
     print("Needs improvement")
-Needs improvement
