@@ -1,0 +1,13 @@
+AIM
+To write a Python program to classify a cricket player as the Best All-Round Performer based on batting, bowling, and fielding performance using branching statements.
+
+ALGORITHM
+Step 1: Start.
+Step 2: Read the player's batting, bowling, and fielding details.
+Step 3: Calculate and display the strike rate and economy rate.
+Step 4: Check and display the batting performance.
+Step 5: Check and display the bowling performance.
+Step 6: Check and display the fielding performance.
+Step 7: Decide the overall performance based on batting and bowling results.
+Step 8: Display the overall result.
+Step 9: Stop.
